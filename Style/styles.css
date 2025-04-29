@@ -71,6 +71,7 @@ body{
     justify-content: center;
     text-align: center;
 }
+
 #barra{
     background-color: rgb(25, 25, 146);
     display: flex;
