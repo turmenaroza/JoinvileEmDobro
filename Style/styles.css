@@ -9,6 +9,7 @@ body{
     display: flex;
     color: aliceblue;
     padding: 5px;
+    padding-right: 10%;
 }
 .redonda {
     background-color: rgb(221, 221, 223);
@@ -21,9 +22,10 @@ body{
 .redonda2 {
     background-color: rgb(221, 221, 223);
     border-radius:10px;
-    margin: 30px;
-padding: 10px;
-    justify-content: center
+    margin:10px ;
+    padding: 0px;
+    text-align: center;
+    padding-right: 27%;
 }
 #barra{
     background-color: rgb(25, 25, 146);
@@ -33,7 +35,7 @@ padding: 10px;
 }
 .img{
     height: 125px;
-    padding-left: 20%;
+    padding-left: 15%;
     
 }
 .img3{
@@ -41,4 +43,5 @@ padding: 10px;
 }
 .flex{
     display: flex;
+    padding-left: 5%;
 }
