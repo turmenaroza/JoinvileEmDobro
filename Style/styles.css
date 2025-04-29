@@ -1,0 +1,44 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-size: 12px;
+}
+
+#barraroxa {
+    background-color: rgb(146, 25, 136);
+    display: flex;
+    color: aliceblue;
+    padding: 5px;
+}
+.redonda {
+    background-color: rgb(221, 221, 223);
+    display: flex;
+    border-radius:10px;
+    margin: 30px;
+ 
+    justify-content: center
+}
+.redonda2 {
+    background-color: rgb(221, 221, 223);
+    border-radius:10px;
+    margin: 30px;
+padding: 10px;
+    justify-content: center
+}
+#barra{
+    background-color: rgb(25, 25, 146);
+    display: flex;
+    max-width: 2000px;
+    padding: 10;
+}
+.img{
+    height: 125px;
+    padding-left: 20%;
+    
+}
+.img3{
+    padding-right: 30%;
+}
+.flex{
+    display: flex;
+}
