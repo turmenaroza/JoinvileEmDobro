@@ -1,0 +1,27 @@
+#barraroxa {
+    background-color: rgb(146, 25, 136);
+    display: flex;
+    padding: 10;
+   justify-content: center;
+    color: aliceblue;
+}
+.redonda {
+    background-color: rgb(25, 25, 146);
+    display: flex;
+    color: rgb(255, 255, 255);
+    border-radius:100px;
+    margin: 30px;
+    padding: 10px;
+    justify-content: center
+}
+#azul {
+    background-color: rgb(25, 25, 146);
+    display: flex;
+    justify-content: center
+}
+#barra{
+    background-color: rgb(25, 25, 146);
+    display: flex;
+    max-width: 2000px;
+    padding: 10;
+}
